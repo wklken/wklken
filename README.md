@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm wklken, a software engineer from china.
+I'm wklken, a software engineer from China.
 
-- My blog: [https://wklken.me](https://wklken.me/posts.html)
-- I work with the vim and vscode. here are some of my repos: [k-vim](https://github.com/wklken/k-vim) / [vim-for-server](https://github.com/wklken/vim-for-server) / [k-vim-vscode](https://github.com/wklken/k-vim-vscode)
-- My recently used languages: Golang, Python, also, I can use PHP/Java/Javascript/Ruby to finish the jobs.
+- I use Vim and Visual Studio Code and have created some popular repositories such as [k-vim](https://github.com/wklken/k-vim) / [vim-for-server](https://github.com/wklken/vim-for-server) / [k-vim-vscode](https://github.com/wklken/k-vim-vscode).
+- With expertise in Golang and Python, I can also work efficiently with PHP, Java, JavaScript, and Ruby to deliver high-quality results. 
+- Check out my blog at [https://wklken.me](https://wklken.me/posts.html).
 
 
 
